@@ -40,7 +40,7 @@ The data has been collected through the survey for the month of June 2022 in the
 
 18: Ethnicity
 
-Based on the response of data professionals for the above questions, the dashboard has been created.
+Based on the response of data professionals for the above questions, the dashboard has been created which consists on the following visuals.
 
 1. Treemap: which represents the countries where the data professionals are located
 2. Stacked bar chart: This represents the average salary by job title.
