@@ -1,6 +1,7 @@
 ![Data professional survey breakdown](https://github.com/SidraBushra/PowerBI2/assets/130314124/8675ca71-515a-4cec-86f3-0bc2f3b29ac1)
 # PowerBI2
 Data professional survey background dashboard
+
 The data has been collected through the survey for the month of June 2022 in the Year 2022 and different questions have been asked to the data professionals which are the following:
 1: Which title best fits your current role?
 2: Did you switch your career to data?
