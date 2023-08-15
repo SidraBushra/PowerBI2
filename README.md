@@ -1,4 +1,5 @@
-![Data professional survey background](https://github.com/SidraBushra/PowerBI2/assets/130314124/e36cd9cb-6fdb-4e79-96b6-51b416733420)
+![Data Professional Survey back](https://github.com/SidraBushra/PowerBI2/assets/130314124/2c7db333-f263-4d41-bbdd-ce742e02131e)
+
 
 
 # PowerBI2
