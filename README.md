@@ -1,4 +1,5 @@
-![Data professional survey breakdown](https://github.com/SidraBushra/PowerBI2/assets/130314124/8675ca71-515a-4cec-86f3-0bc2f3b29ac1)
+
+
 # PowerBI2
 Data professional survey background dashboard
 
